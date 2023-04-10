@@ -1,16 +1,16 @@
 # Ethereum Protocol Fellowship Program Details
 
-The development of the core Ethereum protocols is some of the most important and impactful work you can do in the Ethereum ecosystem. Open source protocols and accompanying open source software and clients that implement those protocol rules are the foundation everything else is built upon.
+The development of the core Solana protocols is one of the most impactful things you can do in this young and fast moving ecosytem. 
 
-The Ethereum protocols are going through the most significant updates and upgrades since genesis and there is much to do. We need more talented and dedicated people to be part of this process. If you are interested in joining this effort the doors are open. You just have to walk through them.
+The Solana protocol is going through the most significant updates and upgrades since genesis and there is much to do. We need more talented and dedicated people to be part of this process. If you are interested in joining this effort the doors are open. You just have to walk through them.
 
 ## What Is It
 
-The *Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program)* is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
+The *Solana Protocol Fellowship * is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
 
-*This program will not teach or focus in any way on smart contract development or creating blockchain applications.*
+### *This program will not teach or focus in any way on smart contract development or creating blockchain applications.*
 
-Over the course of the 4 month program, EPF participants will receive project support and mentorship as well as a monthly stipend while working on a project of their choosing. Participants can expect
+Over the course of the _ month program, fellows will receive project support and mentorship as well as a monthly stipend while working on a project of their choosing.Project ideas and domains could be wide ranging from starting a research area to building a protocol. Fellows can expect
 - a weekly call with participants
 - selected mentorship with applicable devs
 - monthly demo days
@@ -19,12 +19,14 @@ Over the course of the 4 month program, EPF participants will receive project su
 
 ## Who is it for?
 
-Successful candidates will have most of the following skills. It is ok if you have some weak areas, but you should expect to focus on improving them.
-While none of these guidelines are hard requirements for applicants, The most successful applicants will:
+### We are looking for hyngry minds who love tech and maths to build on one of the most performant blockchains.
+
+These skills are good to have but its open cause Inclusiviy >>> Exclusivity
 
 - have strong verbal and written communication skills
 - be self-directed and self-motivated
 - have a technical foundation
+- Being a [High agency person](https://twitter.com/george__mack/status/1068238562443841538?lang=en) 
 - are able to write code
 
 ### Verbal and Written communication
@@ -44,19 +46,10 @@ You are not expected to have expert-level skills in all of these areas, but you 
 Candidate selection will take the following things into account.
 - Your application and areas of interest
 - Your history of open source contributions
-- Your existing contributions to the Ethereum ecosystem
-- Relevant prior work experience
-We will be prioritizing candidates which have something that we consider a strong signal of both interest and ability.
+- The drive to build on solana
 
-*There are life situations which may result in a capable candidate not being able to easily demonstrate their ability. An example would be a long career in private industry working in a closed-source environment. If this is your situation, you are encouraged to explain your situation and make as compelling a case as possible for why you should be considered.*
+### *There are life situations which may result in a capable candidate not being able to easily demonstrate their ability. An example would be a long career in private industry working in a closed-source environment. If this is your situation, you are encouraged to explain your situation and make as compelling a case as possible for why you should be considered.*
 
-## How it will work
-
-Applications will open at the beginning of September and remain open for two weeks, closing on September 16th.
-
-The program will formally run for 4 months, from October through January. This gives us the opportunity to organize physical meetups at Ethereum conferences like [Devcon](https://devcon.org) and [EthDenver](https://www.ethdenver.com).
-
-Timeline of the 4 month program will follow these stages:
 
 ### Phase One
 - Initial meeting with individual participants, interviewing and providing program orientation.
@@ -84,12 +77,11 @@ A common weekly "stand up" meeting will be held for all teams during which they 
 
 ## Will you be paid?
 
-Our goal is to provide an opportunity for you to get paid to learn. We will work with individual applicants to determine a "stipend" amount which will allow you to focus your effort on this program. Some candidates will be selected for funding at the start of the program. Other candidates who choose to participate independent of funding may be extended the option to receive funding as the program progresses.
+It is an open question right now
 
-## Who is running the program?
 
-The program is funded by the Ethereum Foundation and run by the Protocol Support Team. It is important to note that the [Ethereum Foundation](https://ethereum.foundation/philosophy/) does not own, operate, or manage Ethereum but exists to support the protocol and the Ethereum community through funding and research.
+[Fill this form if you are interested in the Fellowship](https://g62phdo3625.typeform.com/to/OhvcrhGl)
 
-[Apply for the third cohort of the Ethereum Protocol Fellowship.](https://forms.gle/8FfKPz7UB8u1rafu8)
+### Welcome to the Fellowship my fren
 
-![Fellowship of the Protocol](/images/epf-hero.jpg)
+![download (1)](https://user-images.githubusercontent.com/88841339/230916395-823ca965-06fd-4cfa-9ae1-54232639741b.jpeg)
