@@ -1,4 +1,4 @@
-# Ethereum Protocol Fellowship Program Details
+# Solana Protocol Fellowship Program Details
 
 The development of the core Solana protocols is one of the most impactful things you can do in this young and fast moving ecosytem. 
 
